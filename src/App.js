@@ -25,7 +25,7 @@ function Biografi() {
 
       <div className="top-section">
         <div className="photo-section">
-          <img src="contoh.jpg" alt="Foto Naufal Najib" />
+          <img src="/contoh.jpg" alt="Foto Naufal Najib" />
         </div>
         <div className="about-section">
           <h2>About Me</h2>
